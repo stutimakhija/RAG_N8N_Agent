@@ -128,48 +128,4 @@ It:
 | **Google Sheets**         | Lead storage                   |
 | **Gmail**                 | Email notification system      |
 
----
-
-## 🧑‍💻 Author
-
-**Ali Hassan**
-📚 BS Computer Science (2022–2026)
-💻 Data Science Enthusiast & AI Workflow Developer
-🌐 GitHub: [alihassanml](https://github.com/alihassanml)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Contributions
-
-Pull requests are welcome!
-If you find bugs, create an issue or PR — let’s make RAG automation smarter together.
-
----
-
-### 🚀 Example Command to Run via Docker
-
-```bash
-docker run -d \
-  -p 5678:5678 \
-  -v ~/.n8n:/home/node/.n8n \
-  n8nio/n8n
-```
-
-Then import this workflow and start building your own RAG-powered automations!
-
----
-
-### 💬 Need Help?
-
-Open an issue or reach out for guidance on:
-
-* Custom AI Agent Prompts
-* RAG integration with Supabase
-* Lead management automations
 
